@@ -1,15 +1,13 @@
-# GabsControl
+# GabsMedical
 
 ## Description
-Usando o Microprocessador STM32F030F4P6 ARM Cortex M0 iremos implementar um controle de sensores e atuadores via comando de voz. 
+Usando o Microprocessador STM32F030F4P6 ARM Cortex M0 iremos implementar um dispositivo monitor de frequência cardíaca.
 
-Ex: Ao chegar o ambiente é dado o comando via voz para abrir a fechadura da casa e ligar a luz e em seguida os comandos serão executados.
 
 ## Componentes
-* GreenPill - Cortex M0
-* NodeMCU-ESP32 
-* Google Home Mini
-* Sensores e Atuadores
+* Cortex M0 - STM32F030F4P6
+* NodeMCU - ESP32  
+* Sensor de Frequência Cardíaca
 
 ## Grupo
 * Kayann Soares `@Kayannsoarez`
