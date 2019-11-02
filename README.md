@@ -13,7 +13,7 @@ O sensor de frequência cardíaca efetua a leitura dos batimentos do coração u
 
 
 ## Lista de material
-* STM32F103C8T6 || STM32F030F4P6
+* STM32F103C8T6
 * NodeMCU - ESP32.   
 * Sensor de Frequência Cardíaca.
 * Led 5mm Vermelho.
