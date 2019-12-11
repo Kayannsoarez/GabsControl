@@ -213,7 +213,7 @@ int main(void){
     	  IgnoreReading = false;
       }
 
-      BPM = (2*(1.0/Signal)) * 60.0 * 1000;
+      BPM = ((1.0/Signal)) * 60.0 * 1000;
 	  HAL_Delay(1000);
 
 	  //Add this value to the message
