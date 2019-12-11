@@ -1,4 +1,6 @@
 # GabsMedical
+![Alt Text](https://github.com/Kayannsoarez/GabsMedical/blob/master/Pics/diagram.png)
+
 
 ## Introdução
 Usando o Microprocessador da STM32 ARM Cortex M iremos implementar um dispositivo monitor de Frequência Cardíaca.
