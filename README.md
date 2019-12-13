@@ -13,7 +13,7 @@ A manutenção desse valor dentro dos parâmetros esperados pode significar, a m
 O sensor de frequência cardíaca efetua a leitura dos batimentos do coração usando um sensor de ritmo cardíaco óptico com amplificador e circuito de cancelamento de ruído, obtendo leituras de impulso de confiança. E em seguida envia esses dados analógicos para o microcontrolador através de um único pino de sinal. O sensor possui apenas 3 pinos, esses pinos se resumem em: Sinal, VCC, GND.  Portanto, observa-se que o sensor estar enviando dados analógicos para o microcontrolador, logo, conecta-se no pino analógicos do microcontrolador. O sensor possui baixo consumo de energia (cerca de 4mA) e sua tensão de operação é de 3~5V.
 
 ## Dados:
-(https://thingspeak.com/channels/909925/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Frequ%C3%AAncia+Card%C3%ADaca&type=line)
+https://thingspeak.com/channels/909925/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Frequ%C3%AAncia+Card%C3%ADaca&type=line
 
 
 ## Lista de material
