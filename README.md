@@ -14,6 +14,7 @@ O sensor de frequência cardíaca efetua a leitura dos batimentos do coração u
 
 ## Dados:
 ![Alt Text](https://github.com/Kayannsoarez/GabsMedical/blob/master/Pics/BPM.png)
+
 http://tiny.cc/thingspeak_BPM
 
 
