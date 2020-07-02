@@ -19,8 +19,8 @@ http://tiny.cc/thingspeak_BPM
 
 
 ## Lista de material
-* STM32F103C8T6
-* NodeMCU - ESP32.   
+* STM32F103C8T6.
+* ESP8266 - (ESP-01).  
 * Sensor de Frequência Cardíaca.
 * Led 5mm Vermelho.
 * Resistor 220R.
@@ -33,5 +33,3 @@ http://tiny.cc/thingspeak_BPM
 ## Grupo
 * Kayann Soares `@Kayannsoarez`
 * Cristiane Felicio `@crisfelicio`
-* Laura Santiago `@laaaaaaa45`
-* Vanderley Freitas `@VanderleyFreitas`
