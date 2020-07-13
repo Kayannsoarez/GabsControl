@@ -17,6 +17,10 @@ O sensor de frequência cardíaca efetua a leitura dos batimentos do coração u
 
 http://tiny.cc/thingspeak_BPM
 
+## Ambiente 
+* STM32CubeMX.
+* Atollic TrueSTUDIO.
+* Framework STM32Cube HAL (Hardware Abstraction Layer).
 
 ## Lista de material
 * STM32F103C8T6.
