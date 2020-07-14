@@ -21,6 +21,7 @@ http://tiny.cc/thingspeak_BPM
 * STM32CubeMX.
 * Atollic TrueSTUDIO.
 * Framework STM32Cube HAL (Hardware Abstraction Layer).
+* Thingspeak.
 
 ## Lista de material
 * STM32F103C8T6.
