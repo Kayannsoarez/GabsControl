@@ -1,5 +1,5 @@
 # GabsMedical
-![Alt Text](https://github.com/Kayannsoarez/GabsMedical/blob/master/Pics/diagram.png)
+![Alt Text](https://github.com/Kayannsoarez/GabsMedical/blob/master/Pics/Diagram.png)
 
 
 ## Introdução
